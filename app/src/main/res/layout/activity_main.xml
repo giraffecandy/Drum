@@ -41,7 +41,7 @@
                 app:srcCompat="@drawable/hihat" />
 
             <ImageButton
-                android:id="@+id/cym1Button2"
+                android:id="@+id/cym1Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#00000000"
@@ -52,7 +52,7 @@
                 app:srcCompat="@drawable/cymbal1" />
 
             <ImageButton
-                android:id="@+id/cym2Button3"
+                android:id="@+id/cym2Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#00000000"
@@ -61,7 +61,7 @@
                 app:srcCompat="@drawable/cymbal2" />
 
             <ImageButton
-                android:id="@+id/tom3Button8"
+                android:id="@+id/tom3Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#00000000"
@@ -71,7 +71,7 @@
                 app:srcCompat="@drawable/tom3" />
 
             <ImageButton
-                android:id="@+id/snareButton5"
+                android:id="@+id/snareButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#00000000"
@@ -81,7 +81,7 @@
                 app:srcCompat="@drawable/snare" />
 
             <ImageButton
-                android:id="@+id/cym3Button4"
+                android:id="@+id/cym3Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#00000000"
@@ -91,7 +91,7 @@
                 app:srcCompat="@drawable/cymbal3" />
 
             <ImageButton
-                android:id="@+id/tom2Button7"
+                android:id="@+id/tom2Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#00000000"
@@ -101,7 +101,7 @@
                 app:srcCompat="@drawable/tom2" />
 
             <ImageButton
-                android:id="@+id/tom1Button6"
+                android:id="@+id/tom1Button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#00000000"
